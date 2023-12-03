@@ -23,21 +23,18 @@ Welcome to the ChatGPT 4.0 Vision API Chat App, a user-friendly application that
 ```bash
 git clone https://github.com/redrickh/IGPT.git
 Install dependencies:
-bash
-Copy code
 pip install -r requirements.txt
 Run the application:
-bash
-Copy code
-python igpt.py
-Important Note
+python ChatGPTApp.py
+```
+## Important Note
 This application uses the gpt-4-vision model, and it's essential to have the appropriate OpenAI API key for access.
 
-Acknowledgments
+## Acknowledgments
 This project is powered by OpenAI's GPT-4 Vision API and DALL-E-3 model.
 
-Contribution
+## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
