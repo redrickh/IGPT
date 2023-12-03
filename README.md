@@ -21,7 +21,7 @@ Welcome to the ChatGPT 4.0 Vision API Chat App, a user-friendly application that
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/ChatGPT-4.0-Vision-API-App.git
+git clone https://github.com/redrickh/IGPT.git
 Install dependencies:
 bash
 Copy code
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Run the application:
 bash
 Copy code
-python ChatGPTApp.py
+python igpt.py
 Important Note
 This application uses the gpt-4-vision model, and it's essential to have the appropriate OpenAI API key for access.
 
