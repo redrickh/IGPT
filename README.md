@@ -27,6 +27,7 @@ pip install -r requirements.txt
 Run the application:
 python ChatGPTApp.py
 ```
+
 ## Important Note
 This application uses the gpt-4-vision model, and it's essential to have the appropriate OpenAI API key for access.
 
