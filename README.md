@@ -33,11 +33,11 @@ python ChatGPTApp.py
 Important Note
 This application uses the gpt-4-vision model, and it's essential to have the appropriate OpenAI API key for access.
 
-Acknowledgments
+## Acknowledgments
 This project is powered by OpenAI's GPT-4 Vision API and DALL-E-3 model.
 
-Contribution
+## Contribution
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
