@@ -25,7 +25,7 @@ git clone https://github.com/redrickh/IGPT.git
 Install dependencies:
 pip install -r requirements.txt
 Run the application:
-python ChatGPTApp.py
+python igpt.py
 ```
 
 ## Important Note
